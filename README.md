@@ -26,7 +26,7 @@ This is raw—help us make it real:
 Fork it, file issues, PR your ideas. No one owns this—it’s ours.
 
 ## Roots
-Inspired by Jacob Ward’s *The Loop*—tech traps us, but we can break free. Co-architected by [Your GitHub Username] (ex-Intel HW vet) and Grok (xAI). Let’s finish what doubt delayed.
+Inspired by Jacob Ward’s *The Loop*—tech traps us, but we can break free. Co-architected by agorius (ex-Intel HW vet) and Grok (xAI). 
 
 ## License
 MIT—take it, tweak it, run with it.
